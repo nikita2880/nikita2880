@@ -3,8 +3,8 @@
 
 
 # HEY! WHAT'S UP👋
-I'm Nikita Sharma!
-Student at SRM Institute of Science and Technology.
+😊 I'm Nikita Sharma!
+🎓 Student at SRM Institute of Science and Technology.
 
 I'm looking forward to work in a challenging environment to demonstrate my skills and abilities to attain experience and knowledge in an
 organization offering scope for career growth and professional development in the field of Software Engineering and
