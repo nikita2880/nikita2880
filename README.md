@@ -11,7 +11,7 @@
 <br />
 👩‍💻 I'm looking forward to work in a challenging environment to demonstrate my skills and abilities to attain experience and knowledge in an
 organization offering scope for career growth and professional development in the field of Software Engineering and
-Development.⚡
+Development. ⚡
 
 ## 🛠 My Hard Skills include:
 Operating System, OOPs, GitHub, Data Structures and Algorithm, Problem Solving, MS Excel.
