@@ -3,7 +3,7 @@
 
 
 # HEY! WHAT'S UP👋
-[![](https://visitcount.itsvg.in/api?id=nikita2880&icon=0&color=11)](https://visitcount.itsvg.in) [![GitHub followers](https://img.shields.io/github/followers/nikita288.svg?style=social&label=Follow)](https://github.com/nikita288?tab=followers) <br />
+[![](https://visitcount.itsvg.in/api?id=nikita2880&icon=0&color=11)](https://visitcount.itsvg.in) [![GitHub followers](https://img.shields.io/github/followers/nikita2880.svg?style=social&label=Follow)](https://github.com/nikita2880?tab=followers) <br />
 
 😊 I'm Nikita Sharma! <br />
 👩‍🎓 Student at SRM Institute of Science and Technology.<br />
