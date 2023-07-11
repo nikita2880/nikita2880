@@ -3,7 +3,7 @@
 
 
 # HEY! WHAT'S UP👋
-[![](https://visitcount.itsvg.in/api?id=nikita2880&icon=0&color=11)](https://visitcount.itsvg.in) [![GitHub followers](https://img.shields.io/github/followers/nikita2880.svg?style=social&label=Follow)](https://github.com/nikita2880?tab=followers) <br />
+[![](https://visitcount.itsvg.in/api?id=nikita2880&icon=0&color=11)](https://visitcount.itsvg.in) <br />
 
 😊 I'm Nikita Sharma! <br />
 👩‍🎓 Student at SRM Institute of Science and Technology.<br />
@@ -52,10 +52,6 @@ Detail-Oriented, Teamwork, Managing People.
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nikita2880&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
 
 
 ## 📫 Let's Connect!
