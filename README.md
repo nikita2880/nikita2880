@@ -8,7 +8,7 @@
 😊 I'm Nikita Sharma! <br />
 👩‍🎓 Student at SRM Institute of Science and Technology.<br />
 🌱 I’m currently learning Full-Stack web-development.<br />
-🌟 Pronouns: She/Her<br />
+🌟 Pronouns: She/Her <br />
 
 <br />
 👩‍💻 I'm looking forward to work in a challenging environment to demonstrate my skills and abilities to attain experience and knowledge in an
