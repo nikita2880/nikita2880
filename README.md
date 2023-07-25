@@ -2,7 +2,7 @@
 ![Logo](https://i.ibb.co/Gt84f1h/backg.jpg)
 
 
-# HEY! WHAT'S UP👋
+# HEY!! WHAT'S UP👋
 [![](https://visitcount.itsvg.in/api?id=nikita2880&icon=0&color=11)](https://visitcount.itsvg.in) <br />
 
 😊 I'm Nikita Sharma! <br />
