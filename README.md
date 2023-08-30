@@ -5,7 +5,7 @@
 # HEY!! WHAT'S UP👋
 [![](https://visitcount.itsvg.in/api?id=nikita2880&icon=0&color=11)](https://visitcount.itsvg.in) <br />
 
-😊 I'm Nikita Sharma ! <br />
+😊 I'm Nikita Sharma !<br />
 👩‍🎓 Student at SRM Institute of Science and Technology.<br />
 🌱 I’m currently learning Full-Stack web-development.<br />
 🌟 Pronouns: She/Her <br />
